@@ -37,6 +37,7 @@
  */
 package com.moss.veracity.api;
 
+@SuppressWarnings("serial")
 public class VtPasswordMechanism extends VtMechanism {
 
 	private String password;

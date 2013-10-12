@@ -39,6 +39,7 @@ package com.moss.veracity.api;
 
 import java.io.Serializable;
 
+@SuppressWarnings("serial")
 public abstract class VtMechanism implements Serializable {
 
 }

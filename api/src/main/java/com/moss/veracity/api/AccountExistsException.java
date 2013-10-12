@@ -39,6 +39,7 @@ package com.moss.veracity.api;
 
 import javax.xml.ws.WebFault;
 
+@SuppressWarnings("serial")
 @WebFault
 public final class AccountExistsException extends Exception {
 	
