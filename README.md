@@ -1,0 +1,4 @@
+veracity
+========
+
+An authentication service
